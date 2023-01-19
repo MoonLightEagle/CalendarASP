@@ -1,0 +1,31 @@
+﻿This file will contain application goals, problems to be solved, user roles.
+
+
+
+The purpose of the application:
+The purpose of the application includes many aspects. From using the usual calendar to receiving statistics of 
+the work performed during a certain period of time. But in more detail, it is worth dividing this topic of problems solved into points.
+- Organize your time for the day.
+- To help manage the daily routine.
+- Manage the creation of tasks or scheduled events.
+- Calculate statistical data for period of time on completed tasks and productivity.
+- To remind about the events that should take place soon.
+
+
+Application user types:
+To begin with, we will write the names of all roles in bullet points. And then we will explain the role of each user below.
+- Admin
+- Guest User
+- Ordinary Logined User
+- Prime Logined User
+
+
+Admin- 
+Guest User - A guest user is a person who either visited the site for the first time, or has not yet completed the account login procedure.
+Ordinary User - A user who has been logged in and has a regular account with access to all free services.
+Prime User - The Prime user gets access to all free services as well as access to paid features.
+
+
+Basic requirements for the application:
+The requirements for the application should include points that were determined during the market analysis of similar
+applications.You can get acquainted with this in more detail in the presentation on the topic of market analysis.
